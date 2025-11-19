@@ -1,4 +1,4 @@
-# Exp-6a.-Finite-State-Machine-for-Sequence-Detector-1011
+# Exp-6.-Finite-State-Machine-for-Sequence-Detector-1011
 # Aim
 To design and simulate a Finite-State-Machine-for-Sequence-Detector-1011 using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment.
 
@@ -210,9 +210,7 @@ module mooretb;
 endmodule
 ```
 # output Waveform
-<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/8efab0eb-2684-4476-be6d-ccfde15e841b" />
-
-
+<img width="1632" height="895" alt="image" src="https://github.com/user-attachments/assets/5d57bb2f-9ac1-47c8-89f3-5d5e18ea3ad7" />
 
 # Conclusion
 The Mealy and Moore state machine for sequence 1011 was designed and successfully simulated using Verilog HDL. The testbench verified both the write and read functionalities by simulating the sequence operations and observing the output waveforms.
